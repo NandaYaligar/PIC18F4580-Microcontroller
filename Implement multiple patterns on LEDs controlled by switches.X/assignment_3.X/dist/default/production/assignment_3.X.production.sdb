@@ -1,0 +1,67 @@
+[p GLOBOPT AUTOSTATIC IEEE_FLT IEEE_DBL LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F4580 ]
+[d frameptr 4065 ]
+"4 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\fleq.c
+[v ___fleq __fleq `(b  1 e 0 0 ]
+"62 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"86 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"54 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"62 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"19 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"10 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"11 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\Umul64.c
+[v ___omul __omul `(uo  1 e 8 0 ]
+"11 C:\Users\Nanda\MPLABXProjects\assignment_3.X\newmain.c
+[v _init_config init_config `(v  1 e 1 0 ]
+"18
+[v _read_dkp_edge read_dkp_edge `(uc  1 e 1 0 ]
+"35
+[v _main main `(v  1 e 1 0 ]
+"25714 C:/Program Files (x86)/Microchip/MPLABX/v5.35/packs/Microchip/PIC18Fxxxx_DFP/1.2.26/xc8\pic\include\proc/pic18f4580.h
+[v _PORTB PORTB `VEuc  1 e 1 @3969 ]
+"25888
+[v _PORTC PORTC `VEuc  1 e 1 @3970 ]
+"27059
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"27281
+[v _TRISC TRISC `VEuc  1 e 1 @3988 ]
+"35 C:\Users\Nanda\MPLABXProjects\assignment_3.X\newmain.c
+[v _main main `(v  1 e 1 0 ]
+{
+"38
+[v main@i i `VEul  1 a 4 7 ]
+[v main@delay delay `VEul  1 a 4 3 ]
+"39
+[v main@flag flag `uc  1 a 1 2 ]
+[v main@key key `uc  1 a 1 1 ]
+[v main@mark mark `uc  1 a 1 0 ]
+"155
+} 0
+"18
+[v _read_dkp_edge read_dkp_edge `(uc  1 e 1 0 ]
+{
+"20
+[v read_dkp_edge@onces onces `uc  1 s 1 onces ]
+"32
+} 0
+"11
+[v _init_config init_config `(v  1 e 1 0 ]
+{
+"16
+} 0
